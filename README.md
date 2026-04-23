@@ -111,9 +111,7 @@ jupyter notebook
 ```
 student-habits-performance/
 │
-├── data/
-│   ├── raw/                  # Original dataset
-│   └── processed/            # Cleaned and transformed data
+
 │
 ├── notebooks/
 │   ├── 01_eda.ipynb          # Exploratory Data Analysis
