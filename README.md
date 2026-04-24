@@ -111,7 +111,7 @@ jupyter notebook
 ```
 student-habits-performance/
 │
-
+|
 │
 ├── notebooks/
 │   ├── 01_eda.ipynb          # Exploratory Data Analysis
